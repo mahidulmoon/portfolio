@@ -49,6 +49,20 @@ class Resume extends Component {
                         <h2 className="mb-5">Experience</h2>
 
                         <div className="resume-item mb-4">
+                        <span className="date"> October 2020 - Present</span>
+                        <h3>Backend Developer</h3>
+                        <p>Golang, Gin, PostgreSQL</p>
+                        <span className="institute">Upskill</span>
+                        </div>
+
+                        <div className="resume-item mb-4">
+                        <span className="date"> March 2018 - Present</span>
+                        <h3>Web Application Developer</h3>
+                        <p>Anything you wanna know ,always be connected with the internet</p>
+                        <span className="institute">Daffodil International University</span>
+                        </div>
+
+                        <div className="resume-item mb-4">
                         <span className="date"> March 2013 </span>
                         <h3>Physics Olympiad</h3>
                         <p>The world is all about physics</p>
@@ -67,13 +81,6 @@ class Resume extends Component {
                         <h3>ICT Intra College Programming Contest</h3>
                         <p>Learn and face the technology</p>
                         <span className="institute">College</span>
-                        </div>
-
-                        <div className="resume-item mb-4">
-                        <span className="date"> March 2018 - Present</span>
-                        <h3>Web Application Developer</h3>
-                        <p>Anything you wanna know ,always be connected with the internet</p>
-                        <span className="institute">Daffodil International University</span>
                         </div>
 
 
