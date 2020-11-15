@@ -145,7 +145,25 @@ class AboutMe extends Component {
                             <h3>React-Native</h3>
                             <div className="progress">
                                 <div className="progress-bar" role="progressbar" style={{width: '60%'}} aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">
-                                <span>50%</span>
+                                <span>60%</span>
+                                </div>
+                            </div>
+                            </div>
+
+                            <div className="skill">
+                            <h3>Golang</h3>
+                            <div className="progress">
+                                <div className="progress-bar" role="progressbar" style={{width: '90%'}} aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">
+                                <span>90%</span>
+                                </div>
+                            </div>
+                            </div>
+
+                            <div className="skill">
+                            <h3>Gin</h3>
+                            <div className="progress">
+                                <div className="progress-bar" role="progressbar" style={{width: '75%'}} aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">
+                                <span>75%</span>
                                 </div>
                             </div>
                             </div>
